@@ -1,0 +1,19 @@
+.app {
+    min-height: 100vh;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,195,253,1) 50%, rgba(69,252,213,1) 100%);
+}
+
+.test_wrapper {
+    width: inherit;
+    padding: 5% 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.result {
+    width: inherit;
+    padding: 5% 20px;
+    display: flex;
+    justify-content: center;
+}
